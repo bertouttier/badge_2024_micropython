@@ -1,5 +1,6 @@
 from .capabilities import hardware_capabilities
 from .display import hardware_display
+from .expansion import hardware_expansion
 from .joystick import hardware_joystick
 from .leds import hardware_leds
 from .onboard_buttons import hardware_onboard_buttons

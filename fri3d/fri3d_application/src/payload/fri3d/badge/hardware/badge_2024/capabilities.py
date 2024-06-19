@@ -3,6 +3,7 @@ class HardwareCapabilities:
         self.game_on = False
         self.joystick = True
         self.onboard_buttons = True
+        self.expansion = True
 
 
 hardware_capabilities = HardwareCapabilities()
